@@ -17,7 +17,7 @@ useHead({ title: 'Maintenance...' })
             <NuxtLink to="https://youtube.com/@Apokalypt" external target="_blank">YouTube</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="https://discord.gg/glitchgtafrance" external target="_blank">Discord</NuxtLink>
+            <NuxtLink to="https://discord.gg/MA5bUnWNnv" external target="_blank">Discord</NuxtLink>
           </li>
           <li>
             <NuxtLink to="https://twitter.com/ApokalyptYT" external target="_blank">Twitter</NuxtLink>
